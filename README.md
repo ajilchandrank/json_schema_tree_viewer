@@ -1,6 +1,7 @@
 # JsonSchemaTreeViewer
 
-This application will show a tree structure for JSON schema.<br> 
+This application will show a tree structure for the JSON schema and it is deployed to [GithubPages](https://ajilchandrank.github.io/json_schema_tree_viewer/).<br> 
+
 <img src="https://user-images.githubusercontent.com/89062110/129848694-224bac0e-dfdf-46fc-9926-5025f17d98a1.png" width="60%" >
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1. and it uses [Angular Material](https://material.angular.io/)
